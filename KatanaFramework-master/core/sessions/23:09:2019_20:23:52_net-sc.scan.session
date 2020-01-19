@@ -1,0 +1,1 @@
+{ "Session" : {  "Module" : "net/sc.scan", "Time" : "Mon Sep 23 20:23:52 2019" , "Options" : [{ "target" : "127.0.0.1"},{ "mode" : "mode-0"},{"ktf":"ktf"}] , "Extra" : []}}
